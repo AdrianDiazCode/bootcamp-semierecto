@@ -1,7 +1,6 @@
 # bootcamp-semierecto
 
 ## temas
-
 - [] git/github
 - [] estructuras de datos
 - [] javascript
@@ -10,4 +9,3 @@
 - [] html
 - [] react/nextjs
 - [] bases de datos
-
